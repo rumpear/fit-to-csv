@@ -63,6 +63,10 @@ This will create `Afternoon_Ride.csv` with all the data from the FIT file.
 
 The resulting CSV file contains all data points from the FIT file's "record" messages, with each field represented as a column.
 
+## See also
+
+- [fit-repair](https://github.com/rumpear/fit-repair): repairs bike computer FIT files before uploading to Strava. Removes the damage done by GPS jamming and spoofing and merges a ride that was split into several recordings.
+
 ## License
 
 This project is open source and available for any use.
